@@ -961,7 +961,7 @@
                 </filter>
               </filters>
               <shadedArtifactAttached>true</shadedArtifactAttached>
-              <shadedClassifierName>shaded</shadedClassifierName>
+              <shadedClassifierName>shady</shadedClassifierName>
               <relocations>
                 <relocation>
                   <pattern>org.apache.commons.compress</pattern>
