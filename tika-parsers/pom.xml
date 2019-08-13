@@ -964,8 +964,8 @@
               <shadedClassifierName>shaded</shadedClassifierName>
               <relocations>
                 <relocation>
-                  <pattern>org.apache.commons.commons-compress</pattern>
-                  <shadedPattern>shaded.org.apache.commons.commons-compress</shadedPattern>
+                  <pattern>org.apache.commons.compress</pattern>
+                  <shadedPattern>shaded.org.apache.commons.compress</shadedPattern>
                 </relocation>
               </relocations>
             </configuration>
