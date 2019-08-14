@@ -960,8 +960,6 @@
                   </excludes>
                 </filter>
               </filters>
-              <shadedArtifactAttached>true</shadedArtifactAttached>
-              <shadedClassifierName>shaded</shadedClassifierName>
               <relocations>
                 <relocation>
                   <pattern>org.apache.commons.compress</pattern>
